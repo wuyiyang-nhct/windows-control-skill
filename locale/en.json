@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Windows Computer Control",
+    "description": "Connects the local Windows-MCP server, giving the agent screenshot, click, type, scroll, window, app, file, clipboard, process and registry control over this PC.",
+    "detail": "docs/DETAIL.md"
+  }
+}
