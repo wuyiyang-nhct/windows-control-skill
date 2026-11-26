@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Windows 电脑控制",
+    "description": "连接本机 Windows-MCP 服务器，让 AI 获得截图、点击、输入、滚轮、窗口、应用、文件、剪贴板、进程、注册表等操作能力（相当于移动你的鼠标）。",
+    "detail": "docs/DETAIL.md"
+  }
+}
