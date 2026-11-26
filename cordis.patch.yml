@@ -1,0 +1,12 @@
+- insert:
+    - id: windows-mcp-control
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: winmcp
+        transport: stdio
+        command: C:\Users\wxy05\.local\bin\windows-mcp.exe
+        args:
+          - serve
+          - --transport
+          - stdio
+        failOnStartupError: true
